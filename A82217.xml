@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Princes Navie, concerning the Parliament of England and the Army; and their remonstrance and resolution delivered to prince Rupert; with the particulars of a great and bloudy fight at sea, and prince Maurice his letter to the prince of Wales. Also, the Queens Majesties message to the Prince at the Hague, concerning the present transaction of affaires, in relation to England, Scotland, and Ireland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82217</idno>
+            <idno type="STC">Wing D741</idno>
+            <idno type="STC">Thomason E552_17</idno>
+            <idno type="STC">ESTC R205731</idno>
+            <idno type="EEBO-CITATION">99865025</idno>
+            <idno type="PROQUEST">99865025</idno>
+            <idno type="VID">165066</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82217)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165066)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E552[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Princes Navie, concerning the Parliament of England and the Army; and their remonstrance and resolution delivered to prince Rupert; with the particulars of a great and bloudy fight at sea, and prince Maurice his letter to the prince of Wales. Also, the Queens Majesties message to the Prince at the Hague, concerning the present transaction of affaires, in relation to England, Scotland, and Ireland.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for G. Wharton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>May 1. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165066:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF The Princes Navie, <hi>CONCERNING</hi> The Parliament of <hi>England</hi> and the <hi>Army;</hi> and their Re<g ref="char:EOLhyphen"/>monſtrance and Reſoluti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n delivered to prince <hi>Rupert;</hi> with the particulars of a great and bloudy fight at Sea, and prince <hi>Maurice</hi> his Letter to the prince of <hi>Wales.</hi>
+            </p>
+            <p>Alſo, the Queens Majeſties Meſſage to the Prince at the <hi>Hague,</hi> concerning the preſent tranſaction of Affaires, in relation to <hi>England, Scot<g ref="char:EOLhyphen"/>land,</hi> and <hi>Ireland.</hi>
+            </p>
+            <figure>
+               <q xml:lang="germ">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>CH DIEN</q>
+               <figDesc>printer's device, consisting of the coronet of the Prince of Wales adorned with three ostrich feathers</figDesc>
+            </figure>
+            <p>Imprinted at <hi>London,</hi> for <hi>G. Wharton, May</hi> 1. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165066:2"/>
+            <pb n="1" facs="tcp:165066:2"/>
+            <head>A DECLARATION Of the Princes Fleet at SEA AND Their Reſolution touching the Parliaments Navy with their preſent Deſign and Intentions touch<g ref="char:EOLhyphen"/>ing the Parliament and Army.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">U</seg>Pon the 26. of this inſtant, here arrived <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Meſſenger from Prince <hi>Maurice,</hi> wi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a Letter to the Prince of <hi>Wales,</hi> where <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he gives an account to his Highneſſe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the preſent tranſactions at Sea, purpo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ting, That without a ſpeedy ſupply of Monies, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther Neceſſaries appertaining thereunto, for acco<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>modation
+<pb n="2" facs="tcp:165066:3"/>of the Mariners, a great diſtraction would ſuddenly break forth amongſt them new Coles being already kindling, which are ready to break forth in a viſible flame.</p>
+            <p>For we hear, that they mutiny exceedingly, and have declared, That they will not engage againſt the Parlia<g ref="char:EOLhyphen"/>ments Navy without aſſurance both of preſent and fu<g ref="char:EOLhyphen"/>ture ſatisfaction; inſomuch, that many of them have undantedly remonſtrated to Prince <hi>Rupert,</hi> and other ſuperiour Officers, that they will rather die and ſuffer martyrdome, then be enſlaved and ruled by a uſurping power and arbytrary Government.</p>
+            <p>This ſtrange allarum ſoundeth in the eares of many like a terrible eccho, and puts a great demur to the proceedings at Court, many of the Grandees declining Engagement; eſpecially ſince the receipt of the In<g ref="char:EOLhyphen"/>telligence, that the parliaments Navy are put forth to Sea who are joyntly reſolved to hazard the encounter, and to bring them to obedience and ſubjection, who have perfidiouſly deſerted, and betrayed the truſt re<g ref="char:EOLhyphen"/>poſed in them.</p>
+            <p>And by an Expreſſe from <hi>Helver-ſluce</hi> it is further intimated, that upon the lanching forth of the parlia<g ref="char:EOLhyphen"/>ments ſhips to the Ocean, they ſoon eſpyed a Squadron of the princes Fleet, all under ſayl, being about ſixteen in number, who making towards them, and comming within ſhot, gave them a broad ſide, which by reaſon of a ſecond Volley from the aſſaulted, a hot conflict began, being diſputed with great reſoluteneſſe and gal<g ref="char:EOLhyphen"/>lantry on both ſides, the Victory ſeeming a long while doubtfull, but at laſt it fell to the parliamenteers, who ſunk one of their Combitants, chaſed the reſt many
+<pb n="3" facs="tcp:165066:3"/>leagues, and are now become Maſters of a great part of the Britiſh Seas.</p>
+            <p>This is reported here with great confidence, and it is verily believed, the reſt will not ſtand a fight, divers of them fearing, that they ſhall be made exemplary, if e<g ref="char:EOLhyphen"/>ver they be taken. Col. <hi>Popham</hi> one of the parliaments Admirals, hath cleered the Weſtern Coaſt neere the Iſle of <hi>Portland,</hi> and forced many to fly before him. The other two Admirals, Col. <hi>Blague,</hi> and Col. <hi>Deane,</hi> are upon the ſame motion on the South weſt point.</p>
+            <closer>
+               <dateline>Hague <date>27. Aprill, 1649.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <head>Postſcript,</head>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>Since the writing of my laſt, the two extraordinary Embaſſadours from Sweden and Denmark have had audience with the titufar King of Scotland, repreſenting the perſonall appearance of their Maſters, and promiſing him aſſiſtance for the ob<g ref="char:EOLhyphen"/>taining of his Birthright. But truly we cannot diſcerne any viſible Force as yet in Armes, and the Princes Propoſitions to the old Souldiers of the United Pro<g ref="char:EOLhyphen"/>vinces are much ſlighted and rejected, having unani<g ref="char:EOLhyphen"/>mouſly declared, that they will not any wayes inter<g ref="char:EOLhyphen"/>meddle with the affairs of <hi>England,</hi> in relation to the erecting and ſetting up of Monarchy or any other Go<g ref="char:EOLhyphen"/>vernment whatſoever. Here is a great demur hapned, at Court, by reaſon of the Parliaments Navy putting forth to Sea, which cauſeth many who at firſt ſeemed very forward to promote the Royall Deſign, to deſert any further Engagement, taking a preſident by the late headleſſe members, who acted againſt the Common<g ref="char:EOLhyphen"/>wealth of <hi>England.</hi>
+               </p>
+               <closer>
+                  <dateline>Hague <date>27. Aprill 1649.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:165066:4"/>
+            <head>The Queens Letter to the Prince.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Queen of <hi>England</hi> is much perplexed and ſore troubled in mind, the Fountain and Riſe whereof, taking its firſt derivation from the preſent ſtreams or head of the Royal Off-ſp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing at the <hi>Hague;</hi> for having ſent a Letter to her Sonne Prince <hi>Charles,</hi> to adviſe him to a Treaty with her Maieſty, and to meet her at <hi>Amians</hi> in <hi>France,</hi> but hearing that his affections had taken Center another way, and that he could not meet her there, ſhe reſolved n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke any further addreſſe unto him, but returned backe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Paris,</hi> condoling much the loſſe of her late endeared Soveraign, and the preſent proceedings of the Prince, in reference to the work in hand touching his reſtau<g ref="char:EOLhyphen"/>ration: And after ſome few dayes ſpent in ſerious meditations, watering her Princely bed with teares of ſorrow, ſhe deſired a conference with Mr. <hi>He<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y Jer<g ref="char:EOLhyphen"/>min,</hi> at which ſhe declared, That ſhe had received ſeve<g ref="char:EOLhyphen"/>rall Dictates in a Dream, and that ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y things were revealed to her thereby, by Apparitions and Viſions, <hi>to wit;</hi>
+            </p>
+            <p>Firſt, that if her Son Prince <hi>Charles</hi> did any wayes alienate his affections from going to <hi>Ireland,</hi> and caſt himſelf upon the Kingdom of Scotland, He was a loſt Prince, and that they would ſerve him as they had done his Father, to ſell him for a ſum of money, and ſo deprive him of all Earthly felicity, which might a<g ref="char:EOLhyphen"/>bundantly flow from his three Crownes and King<g ref="char:EOLhyphen"/>domes.</p>
+            <p>Secondly, That if his vigilancy were not perſpicu<g ref="char:EOLhyphen"/>ous to thoſe in power, in playing of his Game at Sea, that his Deſigne would be ſoone fruſtrated, and all
+<pb n="5" facs="tcp:165066:4"/>hopes of reſtauration wholly expiated, &amp;c. Having dictated unto him theſe propheticall expreſſions, Her Majeſty deſired, that they might be forthwith com<g ref="char:EOLhyphen"/>municated unto his Highneſſe, which was aſſerted to, and a meſſenger immediatly diſpatched from thence to the <hi>Hague:</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>Leyden <date>26. Aprill, 1649.</date>
+                     </dateline>
+                  </opener>
+                  <p>A Yorkſhire Gentlewoman coming out of <hi>Cleve<g ref="char:EOLhyphen"/>land,</hi> to preſent ſome things to the Houſe of Com<g ref="char:EOLhyphen"/>mons, delivered a paper to Lieut. Gen. <hi>Crumwell,</hi> con<g ref="char:EOLhyphen"/>taining matters which ſhe ſaith ſhe had in command from God in a Viſion, <hi>viz.</hi> 1. That the Parliament re<g ref="char:EOLhyphen"/>form the Clergy, &amp; only ſettle ſuch Miniſters as pro<g ref="char:EOLhyphen"/>mote holineſſe and the glory of God. 2 To make the Laws of the Land plain and juſt, grounded upon the Word of God. 3 To make ſpeedy and effectuall pro<g ref="char:EOLhyphen"/>viſion for the poor. 4 That differences be compoſed at home, before the breaking out of further diſtractions abroad. Theſe things ſhe ſaith that ſhe being as dead for a time were revealed to her by God, ſhe beholding the glory of Heaven and the Alm<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ghty Jehovah.</p>
+                  <p>Sir, Our dependance here is, what his gracious Maje<g ref="char:EOLhyphen"/>ſty will do, all deſire his comming hither, but the pro<g ref="char:EOLhyphen"/>feſſed downright Royaliſts would have him come w<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h a force for there inſtituting him in his Right; the other party, ſuch as reall for Presbytery, would alſo have him come with a new heart. Wee hear that the vulgar ſort of people do cry him up exceedingly; an<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſay they <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t and will have <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> King though it coſt them never ſo much: here are <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ly riſings in ſeverall parts of the Country the Marqueſſe of <hi>Hunt<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>s</hi> Son is again in arms with 2000. Gourdons to revenge his Fathers death, they have declared for <hi>Charles</hi> the ſe<g ref="char:EOLhyphen"/>cond,
+<pb n="6" facs="tcp:165066:5"/>and have ſet forth their Invitation, for all perſons to come in to their aſſiſtance. Col. <hi>Car,</hi> and divers o<g ref="char:EOLhyphen"/>ther Engliſh Officers, are likewiſe very active in rai<g ref="char:EOLhyphen"/>ſing of Forces, and have ſent Letters of invitation into <hi>Northumberland, Cumberland,</hi> and <hi>Westmerland,</hi> for o<g ref="char:EOLhyphen"/>thers to come to them, promiſing great matters of pre<g ref="char:EOLhyphen"/>ferment, but it is more then they are able to performe, for the well affected party are both vigilant &amp; active in ſuppreſſing of them.</p>
+                  <p>The Committee of Eſtates ſit daily in conſultation, and are exceedingly diſcontented at their new Kings re<g ref="char:EOLhyphen"/>fuſall to grant their deſires, and reject a complyance with them; whereupon many of them have declared their aſſent for a meſſage to be ſent to the parliament of <hi>England,</hi> in reference to a Treaty, touching prince <hi>Charles;</hi> but many of the great Ones are divided in that particular, and the Commoners cannot indure to heare of the ſubverſion of Monarchy.</p>
+                  <closer>
+                     <dateline>Berwick <date>27 April, 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
